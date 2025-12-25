@@ -1,45 +1,49 @@
-📚 DỰ ÁN KIỂM THỬ PHẦN MỀM QUẢN LÝ THƯ VIỆN
-🎯 Mục tiêu dự án:
-  Dự án tập trung vào kiểm thử phần mềm quản lý thư viện, bao gồm các hoạt động từ phân tích yêu cầu, thiết kế test case, đến thực hiện kiểm thử.
-  Thông qua dự án, nhóm có cơ hội thực hành quy trình kiểm thử thực tế và tìm hiểu, sử dụng các công cụ hỗ trợ trong testing nhằm nâng cao chất lượng phần mềm.
+📚 LIBRARY MANAGEMENT SYSTEM – SOFTWARE TESTING PROJECT
+🎯 Project Objective
 
-🛠️ Môi trường & Công cụ kiểm thử
+This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
+The project also aims to enhance practical testing skills and explore useful testing tools applied during the software testing process to improve overall product quality.
 
-  🧩 Jira – Quản lý bug và theo dõi tiến độ
+🛠️ Testing Environment & Tools
 
-  🗄️ SQL Server 2019+ – Cơ sở dữ liệu (Windows)
+🧩 Jira
 
-  💻 NetBeans – Môi trường phát triển (Yêu cầu JDK 17+)
+Bug tracking and test progress management
 
-🧪 Các Module được kiểm thử
+🗄️ SQL Server 2019+
 
-  👤 Quản lý nhân viên
+Database system (Windows operating system required)
 
-  📄 Quản lý phiếu mượn
+💻 NetBeans
 
-  📚 Quản lý sách
+Development environment (Requires JDK 17+)
 
-  🎓 Quản lý sinh viên
+🧪 Tested Modules
 
-  📊 Thống kê
+👤 Employee Management
 
-  🔐 Đăng nhập & quản lý mật khẩu
+📄 Borrowing Slip Management
 
-  ✍️ Tác giả
+📚 Book Management
 
-  🏢 Nhà xuất bản
+🎓 Student Management
 
-👨‍💼 Vai trò trong dự án
+📊 Statistics & Reports
 
-  🔍 Phân tích dự án và yêu cầu
+🔐 Authentication
 
-  📝 Viết tài liệu kiểm thử (Test Plan, Test Case)
+Login
 
-✅ Kết quả đạt được
+Password management
 
-  ✔️ Hoàn thành toàn bộ kế hoạch kiểm thử
+✍️ Author Management
 
-  ✔️ Phát hiện và ghi nhận các lỗi phát sinh
+🏢 Publisher Management
 
-  ✔️ Góp phần nâng cao chất lượng và độ ổn định của phần mềm
+👨‍💼 Main Responsibilities
 
+🔍 Project and requirement analysis
+
+📝 Test documentation creation (Test Plan, Test Cases)
+
+✅ Test execution
