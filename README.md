@@ -1,6 +1,6 @@
 📚 LIBRARY MANAGEMENT SYSTEM
 🧪 SOFTWARE TESTING PROJECT
-🎯 Project Objective
+** 🎯 Project Objective
 
 ** This project focuses on software testing for a Library Management System, covering the entire testing lifecycle, including:
 
@@ -19,19 +19,19 @@
 - 🧩 Enhance overall software quality
 
 🛠️ Testing Environment & Tools
-🧩 Jira
+- 🧩 Jira
 
-🐞 Bug tracking
+- **🐞 Bug tracking
 
-📈 Test progress management
+- ** 📈 Test progress management
 
-🗄️ SQL Server 2019+
+- 🗄️ SQL Server 2019+
 
-🗃️ Database management system
+- ** 🗃️ Database management system
 
-🪟 Requires Windows operating system
+- ** 🪟 Requires Windows operating system
 
-💻 NetBeans
+-💻 NetBeans
 
 🧑‍💻 Development environment
 
