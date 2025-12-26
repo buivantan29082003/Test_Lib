@@ -1,49 +1,56 @@
 📚 LIBRARY MANAGEMENT SYSTEM – SOFTWARE TESTING PROJECT
-🎯 Project Objective
+### 🎯 Project Objective
 
-This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
+###### This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
 The project also aims to enhance practical testing skills and explore useful testing tools applied during the software testing process to improve overall product quality.
 
 🛠️ Testing Environment & Tools
 
-🧩 Jira
+### 🧩 Jira
 
-Bug tracking and test progress management
+### ### Bug tracking and test progress management
 
-🗄️ SQL Server 2019+
+###🗄️ SQL Server 2019+
 
-Database system (Windows operating system required)
+######Database system (Windows operating system required)
 
-💻 NetBeans
+### 💻 NetBeans
 
-Development environment (Requires JDK 17+)
+### Development environment (Requires JDK 17+)
 
 🧪 Tested Modules
 
-👤 Employee Management
+### 👤 Employee Management
 
-📄 Borrowing Slip Management
+### 📄 Borrowing Slip Management
 
-📚 Book Management
+### 📚 Book Management
 
-🎓 Student Management
+### 🎓 Student Management
 
-📊 Statistics & Reports
+### 📊 Statistics & Reports
 
-🔐 Authentication
+### 🔐 Authentication
 
-Login
+###### Login
 
-Password management
+###### Password management
 
-✍️ Author Management
+### ✍️ Author Management
 
-🏢 Publisher Management
+### 🏢 Publisher Management
 
 👨‍💼 Main Responsibilities
 
-🔍 Project and requirement analysis
+### 🔍 Project and requirement analysis
 
-📝 Test documentation creation (Test Plan, Test Cases)
+### 📝 Test documentation creation (Test Plan, Test Cases)
 
-✅ Test execution
+### ✅ Test execution and report bug on tool.
+ 
+Achivement:
+  Xác định được lỗi phần mềm trong quá trình test, đảm bảo phần mềm hoạt động đúng yêu cầu và không lỗi.
+  Hiểu được quy trình test, ứng dụng lý thuyết vào thực tiển.
+  Ứng dụng được JUnit test vào quá trình kiểm thử.
+  Tìm hiểu và sử dụng các công cụ cần thiết trong toàn bộ quy trình kiểm thử.
+  
