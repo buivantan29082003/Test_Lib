@@ -1,56 +1,118 @@
-📚 LIBRARY MANAGEMENT SYSTEM – SOFTWARE TESTING PROJECT
-### 🎯 Project Objective
+📚 LIBRARY MANAGEMENT SYSTEM
+🧪 SOFTWARE TESTING PROJECT
+🎯 Project Objective
 
-## ## This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
-The project also aims to enhance practical testing skills and explore useful testing tools applied during the software testing process to improve overall product quality.
+This project focuses on software testing for a Library Management System, covering the entire testing lifecycle, including:
+
+🔍 Project analysis and requirement analysis
+
+📝 Test case and test plan design
+
+▶️ Test execution and bug reporting
+
+The project also aims to:
+
+🚀 Improve practical software testing skills
+
+🛠️ Explore and apply testing tools
+
+🧩 Enhance overall software quality
 
 🛠️ Testing Environment & Tools
+🧩 Jira
 
-### 🧩 Jira
+🐞 Bug tracking
 
-### ### Bug tracking and test progress management
+📈 Test progress management
 
-###🗄️ SQL Server 2019+
+🗄️ SQL Server 2019+
 
-######Database system (Windows operating system required)
+🗃️ Database management system
 
-### 💻 NetBeans
+🪟 Requires Windows operating system
 
-### Development environment (Requires JDK 17+)
+💻 NetBeans
+
+🧑‍💻 Development environment
+
+☕ Requires JDK 17+
 
 🧪 Tested Modules
+👤 Employee Management
 
-### 👤 Employee Management
+➕ Add / update / delete employee
 
-### 📄 Borrowing Slip Management
+🔎 Search and view employee information
 
-### 📚 Book Management
+📄 Borrowing Slip Management
 
-### 🎓 Student Management
+📥 Create borrowing slips
 
-### 📊 Statistics & Reports
+📤 Return books
 
-### 🔐 Authentication
+⏱️ Track borrowing status
 
-###### Login
+📚 Book Management
 
-###### Password management
+📖 Manage book information
 
-### ✍️ Author Management
+🔍 Search books
 
-### 🏢 Publisher Management
+📦 Manage book quantity
+
+🎓 Student Management
+
+👨‍🎓 Add / update student information
+
+🆔 Manage student records
+
+📊 Statistics & Reports
+
+📈 Borrowing statistics
+
+📑 Summary reports
+
+🔐 Authentication
+
+🔑 Login
+
+🔒 Password management
+
+✍️ Author Management
+
+🖊️ Manage author information
+
+🏢 Publisher Management
+
+🏭 Manage publisher information
 
 👨‍💼 Main Responsibilities
+🔍 Project & Requirement Analysis
 
-### 🔍 Project and requirement analysis
+📌 Analyze system requirements
 
-### 📝 Test documentation creation (Test Plan, Test Cases)
+🧠 Understand business logic
 
-### ✅ Test execution and report bug on tool.
- 
-Achivement:
-  Xác định được lỗi phần mềm trong quá trình test, đảm bảo phần mềm hoạt động đúng yêu cầu và không lỗi.
-  Hiểu được quy trình test, ứng dụng lý thuyết vào thực tiển.
-  Ứng dụng được JUnit test vào quá trình kiểm thử.
-  Tìm hiểu và sử dụng các công cụ cần thiết trong toàn bộ quy trình kiểm thử.
-  
+📝 Test Documentation Creation
+
+📄 Test Plan
+
+🧪 Test Cases
+
+✅ Test Execution & Bug Reporting
+
+▶️ Execute test cases
+
+🐞 Report bugs using testing tools
+
+🏆 Achievements
+
+🐛 Identified software defects during testing, ensuring the system meets requirements and works correctly
+
+📚 Gained a clear understanding of the software testing process
+
+🔄 Applied testing theory to real-world practice
+
+🧪 Applied JUnit testing in the testing process
+
+🛠️ Learned and used essential tools throughout the entire testing lifecycle
