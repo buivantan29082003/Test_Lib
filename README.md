@@ -2,21 +2,21 @@
 🧪 SOFTWARE TESTING PROJECT
 🎯 Project Objective
 
-This project focuses on software testing for a Library Management System, covering the entire testing lifecycle, including:
+** This project focuses on software testing for a Library Management System, covering the entire testing lifecycle, including:
 
-🔍 Project analysis and requirement analysis
+- 🔍 Project analysis and requirement analysis
 
-📝 Test case and test plan design
+- 📝 Test case and test plan design
 
-▶️ Test execution and bug reporting
+- ▶️ Test execution and bug reporting
 
-The project also aims to:
+** The project also aims to:
 
-🚀 Improve practical software testing skills
+- 🚀 Improve practical software testing skills
 
-🛠️ Explore and apply testing tools
+- 🛠️ Explore and apply testing tools
 
-🧩 Enhance overall software quality
+- 🧩 Enhance overall software quality
 
 🛠️ Testing Environment & Tools
 🧩 Jira
