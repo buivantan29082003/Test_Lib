@@ -27,9 +27,9 @@
 
 - 🗄️ SQL Server 2019+
 
-- ** 🗃️ Database management system
+- - 🗃️ Database management system
 
-- ** 🪟 Requires Windows operating system
+- - 🪟 Requires Windows operating system
 
 -💻 NetBeans
 
@@ -44,75 +44,74 @@
 
 - - 🔎 Search and view employee information
 
-📄 Borrowing Slip Management
+- 📄 Borrowing Slip Management
 
-📥 Create borrowing slips
+- - 📥 Create borrowing slips
 
-📤 Return books
+- - 📤 Return books
 
-⏱️ Track borrowing status
+- - ⏱️ Track borrowing status
 
-📚 Book Management
+- 📚 Book Management
 
-📖 Manage book information
+- - 📖 Manage book information
 
-🔍 Search books
+- - 🔍 Search books
 
-📦 Manage book quantity
+- - 📦 Manage book quantity
 
-🎓 Student Management
+- 🎓 Student Management
 
-👨‍🎓 Add / update student information
+- - 👨‍🎓 Add / update student information
 
-🆔 Manage student records
+- - 🆔 Manage student records
 
-📊 Statistics & Reports
+- 📊 Statistics & Reports
 
-📈 Borrowing statistics
+- - 📈 Borrowing statistics
 
-📑 Summary reports
+- - 📑 Summary reports
 
-🔐 Authentication
+- 🔐 Authentication
 
-🔑 Login
+- - 🔑 Login
 
-🔒 Password management
+- - 🔒 Password management
 
-✍️ Author Management
+- ✍️ Author Management
 
-🖊️ Manage author information
+🖊️ Manage author information 
 
-🏢 Publisher Management
-
-🏭 Manage publisher information
+- 🏭 Manage publisher information
 
 👨‍💼 Main Responsibilities
-🔍 Project & Requirement Analysis
 
-📌 Analyze system requirements
+- 🔍 Project & Requirement Analysis
 
-🧠 Understand business logic
+- -  📌 Analyze system requirements
 
-📝 Test Documentation Creation
+- -🧠 Understand business logic
 
-📄 Test Plan
+- 📝 Test Documentation Creation
 
-🧪 Test Cases
+- - 📄 Test Plan
 
-✅ Test Execution & Bug Reporting
+- - 🧪 Test Cases
 
-▶️ Execute test cases
+- ✅ Test Execution & Bug Reporting
 
-🐞 Report bugs using testing tools
+- - ▶️ Execute test cases
+
+- - 🐞 Report bugs using testing tools
 
 🏆 Achievements
 
-🐛 Identified software defects during testing, ensuring the system meets requirements and works correctly
+- 🐛 Identified software defects during testing, ensuring the system meets requirements and works correctly
 
-📚 Gained a clear understanding of the software testing process
+- 📚 Gained a clear understanding of the software testing process
 
-🔄 Applied testing theory to real-world practice
+- 🔄 Applied testing theory to real-world practice
 
-🧪 Applied JUnit testing in the testing process
+- 🧪 Applied JUnit testing in the testing process
 
-🛠️ Learned and used essential tools throughout the entire testing lifecycle
+- 🛠️ Learned and used essential tools throughout the entire testing lifecycle
