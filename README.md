@@ -38,11 +38,11 @@
 ☕ Requires JDK 17+
 
 🧪 Tested Modules
-👤 Employee Management
+- 👤 Employee Management
 
-➕ Add / update / delete employee
+- - ➕ Add / update / delete employee
 
-🔎 Search and view employee information
+- - 🔎 Search and view employee information
 
 📄 Borrowing Slip Management
 
