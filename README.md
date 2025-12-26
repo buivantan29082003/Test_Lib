@@ -1,7 +1,7 @@
 📚 LIBRARY MANAGEMENT SYSTEM – SOFTWARE TESTING PROJECT
 ### 🎯 Project Objective
 
-### ### This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
+## ## This project focuses on software testing for a Library Management System, covering activities from project and requirement analysis, test case design, to test execution.
 The project also aims to enhance practical testing skills and explore useful testing tools applied during the software testing process to improve overall product quality.
 
 🛠️ Testing Environment & Tools
