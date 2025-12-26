@@ -9,6 +9,7 @@
 - 📝 Test case and test plan design
 
 - ▶️ Test execution and bug reporting
+- ....
 
 ** The project also aims to:
 
@@ -17,6 +18,8 @@
 - 🛠️ Explore and apply testing tools
 
 - 🧩 Enhance overall software quality
+
+- 📝 Understanding Agile/Scrum in software development and testing
 
 🛠️ Testing Environment & Tools
 - 🧩 Jira
@@ -115,3 +118,5 @@
 - 🧪 Applied JUnit testing in the testing process
 
 - 🛠️ Learned and used essential tools throughout the entire testing lifecycle
+
+- Simulate software development and testing using Agile/Scrum.
